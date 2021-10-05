@@ -1,0 +1,64 @@
+.general{
+    font-family: 'Gemunu Libre', sans-serif;
+}
+.header_Font{
+    color: red;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 150px;
+
+}
+.menu-link{
+    text-decoration: none;
+
+}
+.context{
+text-align: center;
+}
+.subHeader{
+    color: purple;
+}
+.minHeader{
+    color: rgb(158, 144, 19);
+}
+.list{
+
+    position: inherit;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+.product-items{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.product-list-general{
+    position: relative;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+.product-items-list{
+    border: 2px dotted purple;
+    border-radius: 20px;
+}
+.product-items-wh{
+    width: 250px;
+    height: 250px;
+}
+.strong-text{
+    font-weight: bolder;
+    font-size: larger;
+}
+.vizyon_misyon{
+    text-align: center;
+
+}
+.box{
+    text-align: center;
+    width: 100%;
+    height: 250px;
+}
